@@ -1,1 +1,1 @@
-# QXQX-Scripts
+# QX-Scripts
