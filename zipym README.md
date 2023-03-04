@@ -42,6 +42,4 @@
 
 您可以在此项目下创建issue
 
-## 如何入群
-扫码关注，回复【Zipym交流群】
-![Zipym交流群](https://zoepro.github.io/zoe-wechat.jpg)
+
