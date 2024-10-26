@@ -1,0 +1,18 @@
+配置新版Copilot代理规则
+
+
+
+
+
+* access-point.cloudmessaging.edge.microsoft.com，域名模式
+* sydney.bing.com，域名模式
+* browser.pipe.aria.microsoft.com，域名模式
+* www.bingapis.com，域名模式
+* events.data.microsoft.com，域名后缀模式
+* prod.do.dsp.mp.microsoft.com，域名后缀模式
+* functional.events.data.microsoft.com，域名模式
+* designer.microsoft.com，域名模式
+* edge.microsoft.com，域名模式
+* copilot.microsoft.com，域名模式
+* edgeservices.bing.com，域名模式
+其中，域名模式在Clash中称为"DOMAIN"，域名后缀模式称为"DOMAIN-SUFFIX"。配置完成后，只开规则代理就能使用Copilot了。
