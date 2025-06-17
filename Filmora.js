@@ -17,7 +17,7 @@ if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; re
 
 [rewrite_local]
 
-https://api.300624.com/v3/plan/feature-code/auth url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/wanxingmiaoying.js
+https://api.300624.com/v3/plan/feature-code/auth url script-response-body https://raw.githubusercontent.com/LoveJessyChen/QX-Scripts/refs/heads/main/Filmora.js
 
 [mitm] 
 
